@@ -1,0 +1,6 @@
+[submodule "react-app-rewired"]
+	path = src/react-app-rewired
+	url = https://github.com/Yama-Tomo/react-app-rewired.git
+[submodule "src/create-react-app"]
+	path = src/create-react-app
+	url = https://github.com/Yama-Tomo/create-react-app.git

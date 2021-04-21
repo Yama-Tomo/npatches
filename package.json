@@ -1,0 +1,20 @@
+{
+  "name": "@yamatomo/npatches",
+  "version": "1.0.0",
+  "author": "Yama-Tomo <mazda13bturbo@gmail.com> (https://github.com/Yama-Tomo/)",
+  "repository": "https://github.com/Yama-Tomo/npatches.git",
+  "license": "MIT",
+  "scripts": {
+    "build": "scripts/create-pathes.sh",
+    "apply-test": "patch-package --patch-dir latest_patch_files"
+  },
+  "devDependencies": {
+    "patch-package": "^6.4.7",
+    "postinstall-postinstall": "^2.1.0",
+    "react-app-rewired": "2.1.8",
+    "react-scripts": "4.0.3"
+  },
+  "files": [
+    "patch_files"
+  ]
+}
