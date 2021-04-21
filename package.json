@@ -12,7 +12,8 @@
     "patch-package": "^6.4.7",
     "postinstall-postinstall": "^2.1.0",
     "react-app-rewired": "2.1.8",
-    "react-scripts": "4.0.3"
+    "react-scripts": "4.0.3",
+    "standard-version": "^9.2.0"
   },
   "files": [
     "patch_files"
